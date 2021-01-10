@@ -1,0 +1,11 @@
+C:\Users\aceti\OneDrive\Masaüstü\algoritma\çizelgeleme\çizelgeleme\bin\Debug\çizelgeleme.exe.config
+C:\Users\aceti\OneDrive\Masaüstü\algoritma\çizelgeleme\çizelgeleme\bin\Debug\çizelgeleme.exe
+C:\Users\aceti\OneDrive\Masaüstü\algoritma\çizelgeleme\çizelgeleme\bin\Debug\çizelgeleme.pdb
+C:\Users\aceti\OneDrive\Masaüstü\algoritma\çizelgeleme\çizelgeleme\obj\Debug\çizelgeleme.csprojAssemblyReference.cache
+C:\Users\aceti\OneDrive\Masaüstü\algoritma\çizelgeleme\çizelgeleme\obj\Debug\çizelgeleme.Form1.resources
+C:\Users\aceti\OneDrive\Masaüstü\algoritma\çizelgeleme\çizelgeleme\obj\Debug\çizelgeleme.Properties.Resources.resources
+C:\Users\aceti\OneDrive\Masaüstü\algoritma\çizelgeleme\çizelgeleme\obj\Debug\çizelgeleme.csproj.GenerateResource.cache
+C:\Users\aceti\OneDrive\Masaüstü\algoritma\çizelgeleme\çizelgeleme\obj\Debug\çizelgeleme.csproj.CoreCompileInputs.cache
+C:\Users\aceti\OneDrive\Masaüstü\algoritma\çizelgeleme\çizelgeleme\obj\Debug\çizelgeleme.exe
+C:\Users\aceti\OneDrive\Masaüstü\algoritma\çizelgeleme\çizelgeleme\obj\Debug\çizelgeleme.pdb
+C:\Users\aceti\OneDrive\Masaüstü\algoritma\çizelgeleme\çizelgeleme\obj\Debug\çizelgeleme.Form2.resources
